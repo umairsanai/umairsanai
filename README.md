@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=68&lines=Backend+Engineer;Low-Level+Systems+Explorer;API+Builder;Computer+Scientist" alt="Animated typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=68&lines=Backend+Engineer;Low-Level+Systems+Explorer;Computer+Scientist" alt="Animated typing intro" />
 </p>
 
 <p align="center">
@@ -43,18 +43,18 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/umairsanai/ClearCash">
-        <img src="https://img.shields.io/badge/Launch-ClearCash-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="ClearCash project" />
+      <a href="https://clearcash-orpin.vercel.app/">
+        <img src="https://img.shields.io/badge/Live-ClearCash-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="ClearCash project" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/umairsanai/Roamistan">
-        <img src="https://img.shields.io/badge/Launch-Roamistan-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Roamistan project" />
+        <img src="https://img.shields.io/badge/In%20Developement-Roamistan-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Roamistan project" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/umairsanai/Mdcatemy">
-        <img src="https://img.shields.io/badge/Launch-Mdcatemy-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Mdcatemy project" />
+      <a href="https://mdcatemy.com/dashboard">
+        <img src="https://img.shields.io/badge/Live-Mdcatemy-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="MDCATemy project" />
       </a>
     </td>
   </tr>
@@ -65,9 +65,9 @@
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/umer-sani-656372221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/umair-anwar-sanai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/umairsanai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://umairsanai.dev"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://umairsanai.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
