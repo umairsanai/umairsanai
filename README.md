@@ -8,7 +8,7 @@
 
 <p align="center">
   <img height="34" src="https://img.shields.io/badge/Experience-Backend%20Engineering-14B8A6?style=for-the-badge&labelColor=020617" alt="Backend Engineering XP" />
-  <img height="34" src="https://img.shields.io/badge/Passion-Low%20Level%20Systems-A855F7?style=for-the-badge&labelColor=020617" alt="Low Level Systems Mode" />
+  <img height="34" src="https://img.shields.io/badge/Passion-Scalable%20Backends%20&%20System%20Design-A855F7?style=for-the-badge&labelColor=020617" alt="Low Level Systems Mode" />
 </p>
 
 
@@ -34,11 +34,19 @@
   <img height="34" src="https://img.shields.io/badge/Java-0F172A?logo=openjdk&logoColor=F87171&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/TypeScript-0F172A?logo=typescript&logoColor=38BDF8&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/JavaScript-0F172A?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/HTML-0F172A?logo=html5&logoColor=E34F26&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img height="34" src="https://img.shields.io/badge/MySQL-0F172A?logo=mysql&logoColor=4479A1&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/Vite-0F172A?logo=vite&logoColor=646CFF&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/JWT-0F172A?logo=jsonwebtokens&logoColor=F8FAFC&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/Cron-0F172A?logo=clockify&logoColor=38BDF8&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/Vercel-0F172A?logo=vercel&logoColor=F8FAFC&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/Render-0F172A?logo=render&logoColor=46E3B7&style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 <table align="center">
   <tr>
@@ -48,8 +56,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/umairsanai/Roamistan">
-        <img height="34" src="https://img.shields.io/badge/In%20Developement-Roamistan-005B12?style=for-the-badge&logo=github&logoColor=007517&labelColor=F8F5EC" alt="Roamistan project" />
+      <a href="https://roamistan.vercel.app/">
+        <img height="34" src="https://img.shields.io/badge/Live-Roamistan-005B12?style=for-the-badge&logo=github&logoColor=007517&labelColor=F8F5EC" alt="Roamistan project" />
       </a>
     </td>
     <td align="center">
@@ -62,12 +70,11 @@
 
 ---
 
-### 🌐 Connect
+### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/umair-anwar-sanai"><img height="34" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/umairsanai"><img height="34" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://umairsanai.github.io/portfolio/"><img height="34" src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/umair-anwar-sanai"><img height="34" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://umairsanai.github.io/portfolio/"><img height="34" src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
 <p align="center">

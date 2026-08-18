@@ -67,5 +67,5 @@
   <circle class="spark" cx="694" cy="182" r="2.7" fill="#00E5FF"/>
 
   <text x="450" y="116" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="900" letter-spacing="1.5" fill="url(#neon)" filter="url(#glow)" class="pulse">Umair Anwar</text>
-  <text x="450" y="156" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700" fill="#E2E8F0" opacity="0.9">Backend Engineer - Passioante about Low-Level Systems</text>
+  <text x="450" y="156" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700" fill="#E2E8F0" opacity="0.9">Backend Engineer - Passioante about High-Performance Backends</text>
 </svg>
