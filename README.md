@@ -24,6 +24,7 @@
   <img height="34" src="https://img.shields.io/badge/GDB-0F172A?logo=gnu&logoColor=FB923C&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Node.js-0F172A?logo=nodedotjs&logoColor=22C55E&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Express-0F172A?logo=express&logoColor=F8FAFC&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/SQL-0F172A?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjBBNUZBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8+PHBhdGggZD0iTTQgNXY3YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWNSIvPjxwYXRoIGQ9Ik00IDEydjdjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM3YtNyIvPjwvc3ZnPg==&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Docker-0F172A?logo=docker&logoColor=38BDF8&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/PostgreSQL-0F172A?logo=postgresql&logoColor=60A5FA&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/MongoDB-0F172A?logo=mongodb&logoColor=22C55E&style=for-the-badge" />
@@ -39,6 +40,8 @@
   <img height="34" src="https://img.shields.io/badge/MySQL-0F172A?logo=mysql&logoColor=4479A1&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Vite-0F172A?logo=vite&logoColor=646CFF&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/JWT-0F172A?logo=jsonwebtokens&logoColor=F8FAFC&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/OAuth%202.0-0F172A?logo=auth0&logoColor=EB5424&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/WebSockets-0F172A?logo=socketdotio&logoColor=F8FAFC&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Cron-0F172A?logo=clockify&logoColor=38BDF8&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Vercel-0F172A?logo=vercel&logoColor=F8FAFC&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Render-0F172A?logo=render&logoColor=46E3B7&style=for-the-badge" />
