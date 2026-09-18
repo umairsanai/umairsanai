@@ -45,6 +45,7 @@
   <img height="34" src="https://img.shields.io/badge/Cron-0F172A?logo=clockify&logoColor=38BDF8&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Vercel-0F172A?logo=vercel&logoColor=F8FAFC&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Render-0F172A?logo=render&logoColor=46E3B7&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/n8n-0F172A?logo=n8n&logoColor=EA4B71&style=for-the-badge" />
 </p>
 
 ---
