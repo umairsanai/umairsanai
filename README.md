@@ -11,10 +11,8 @@
   <img height="34" src="https://img.shields.io/badge/Passion-Scalable%20Backends%20&%20System%20Design-A855F7?style=for-the-badge&labelColor=020617" alt="Low Level Systems Mode" />
 </p>
 
-
----
-
 ## Skills
+
 
 <p align="center">
   <img height="34" src="https://img.shields.io/badge/C-0F172A?logo=c&logoColor=A8B9CC&style=for-the-badge" />
@@ -49,8 +47,6 @@
   <img height="34" src="https://img.shields.io/badge/n8n-0F172A?logo=n8n&logoColor=EA4B71&style=for-the-badge" />
 </p>
 
----
-
 ## Projects
 
 <table align="center">
@@ -72,8 +68,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## Let's Connect
 
