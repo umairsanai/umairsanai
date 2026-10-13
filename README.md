@@ -2,9 +2,9 @@
   <img src="./assets/neon-header.svg" alt="Animated neon header for Umair Anwar" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=37&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=68&lines=BACKEND+ENGINEER;LOW-LEVEL+SYSTEMS+EXPLORER;COMPUTER+SCIENTIST" alt="Animated typing intro" />
-</p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=37&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=68&lines=BACKEND+ENGINEER;SYSTEMS+EXPLORER;COMPUTER+SCIENTIST" alt="Animated typing intro" />
+</p> -->
 
 <p align="center">
   <img height="34" src="https://img.shields.io/badge/Experience-Backend%20Engineering-14B8A6?style=for-the-badge&labelColor=020617" alt="Backend Engineering XP" />
@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ Skills
+## Skills
 
 <p align="center">
   <img height="34" src="https://img.shields.io/badge/C-0F172A?logo=c&logoColor=A8B9CC&style=for-the-badge" />
@@ -24,6 +24,7 @@
   <img height="34" src="https://img.shields.io/badge/GDB-0F172A?logo=gnu&logoColor=FB923C&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Node.js-0F172A?logo=nodedotjs&logoColor=22C55E&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Express-0F172A?logo=express&logoColor=F8FAFC&style=for-the-badge" />
+  <img height="34" src="https://img.shields.io/badge/React-0F172A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/SQL-0F172A?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjBBNUZBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8+PHBhdGggZD0iTTQgNXY3YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWNSIvPjxwYXRoIGQ9Ik00IDEydjdjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM3YtNyIvPjwvc3ZnPg==&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/Docker-0F172A?logo=docker&logoColor=38BDF8&style=for-the-badge" />
   <img height="34" src="https://img.shields.io/badge/PostgreSQL-0F172A?logo=postgresql&logoColor=60A5FA&style=for-the-badge" />
@@ -50,7 +51,7 @@
 
 ---
 
-### 🚀 Projects
+## Projects
 
 <table align="center">
   <tr>
@@ -74,7 +75,7 @@
 
 ---
 
-### 🌐 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/umair-anwar-sanai"><img height="34" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
